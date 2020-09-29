@@ -5,7 +5,7 @@
 ## Programador Standalone para STM8
 Programador Standalone para STM8 feito com a modificação das placas [STM8S-DISCOVERY](https://www.st.com/en/evaluation-tools/stm8s-discovery.html) ou [STM8SVLDISCOVERY](https://www.st.com/en/evaluation-tools/stm8svldiscovery.html).
 
-Para ver como fazer as modificações de hardware na placa de desenvolvimento e como usar o firmware desse repositório para incorporar o seu binário de STM8 no programador, acesse o artigo.
+Para ver como fazer as modificações de hardware na placa de desenvolvimento e como usar o firmware desse repositório para incorporar o seu binário de STM8 no programador, [acesse o artigo](https://diegomendesmoreno.blogspot.com/2020/09/gravador-de-producao-standalone-para.html).
 
 --------------
 ## Standalone STM8 Programmer
